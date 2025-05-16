@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: vvvinsss/le-journal-d-un-indecis
-  branch: master
+  branch: main
   base_url: https://cms-proxy-dzv8.onrender.com
   auth_endpoint: auth
 
